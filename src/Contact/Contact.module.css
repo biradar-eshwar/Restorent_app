@@ -1,0 +1,125 @@
+.sec1{
+    /* border: 2px solid red; */
+    height: 500px;
+}
+.sec1 h1{
+    /* border: 2px solid black; */
+    height: 40px;
+    width: 190px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 580px;
+    font-size: 43px;
+    color: black;
+    /* font-family: "Dashing script",cursive ; */
+}
+.sec1 h2{
+    /* border: 2px solid red; */
+    height: 60px;
+    width: 100px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 580px;
+    font-size: 28px;
+    
+}
+.sec1 h2 a{
+    color: rgb(4, 12, 4);
+    text-decoration: none;
+    
+
+    
+}
+
+
+
+.sec1 h3{
+    /* border: 2px solid red; */
+    height: 30px;
+    width: 90px;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 680px;
+    color: white;
+    font-size: 28px;
+}
+.sec2{
+    /* border: 2px solid rgb(0, 255, 26); */
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+}
+.div1{
+    /* border: 2px solid black; */
+    height: 550px;
+    width: 50%;
+}
+.div2{
+    /* border: 2px solid red; */
+    height: 550px;
+    width: 50%;
+    padding-left: 9%;
+
+}
+.div2 h1{
+    /* border: 2px solid red; */
+    height: 30px;
+    width: 180px;
+    margin-top: 20px;
+    padding-top: 20px;
+    font-size: 28px;
+}
+.div2 input{
+    /* border: 2px solid black; */
+    height: 45px;
+    width: 54%;
+    font-size: 20px;
+    border: none;
+    margin-top: 13px;
+   
+}
+.para{
+    /* border: 2px solid red; */
+    height: 120px;
+    width: 52%;
+    font-size: 19px;
+    border: none;
+    margin-top: 15px;
+
+}
+.div2 button{
+    /* border: 2px solid red; */
+    height: 40px;
+    width: 160px;
+    font-size: 18px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.div2 button:hover{
+    background-color: blue;
+    color: white;
+}
+.sec3{
+    /* border: 2px solid rgb(0, 21, 255); */
+    height: 200px;
+}
+.sec3 h1{
+    font-size: 29px;
+    /* border: 2px solid black; */
+    padding-left: 90px;
+    font-family: sans-serif;
+}
+.sec3 div{
+    /* border: 2px solid red; */
+    height: 100px;
+    display: flex;
+    gap: 120px;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding-left: 90px;
+}

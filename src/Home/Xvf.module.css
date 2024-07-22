@@ -1,0 +1,56 @@
+.Carousel{
+    border: 2px solid black;
+    height: 650px;
+
+}
+
+.photo{
+    height: 680px;
+    width: 90%;
+    
+}
+.best{
+    /* border: 2px solid red; */
+    font-size: 40px;
+    position: absolute;
+    color: red;
+    height: 80px;
+    width: 650px;
+    margin-top: -380px;
+    color: white;
+    font-size: 60px;
+    margin-left: 400px;
+    
+}
+
+.Carousele1{
+    border: 2px solid blue;
+    /* position: absolute; */
+    color: red;
+    height: 200px;
+    width: 120px;
+    margin-top: 130px;
+    margin-left: 60px;
+    /* border-radius: 90px; */
+    
+}
+.Carousele1 img{
+    border-radius: 100px;
+    height: 90px;
+    width: 40px;
+    /* position: absolute; */
+    margin-top: -330px;
+
+
+
+}
+.eshu{
+    /* border: 2px solid red; */
+    height: 90px;
+    width: 280px;
+    margin-top: -120px;
+    position: absolute;
+    margin-left: 10px;
+    color: rgb(251, 246, 246);
+    font-size: 19px;
+}

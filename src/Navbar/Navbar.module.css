@@ -1,0 +1,57 @@
+.nav1{
+    /* border: 2px solid red; */
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30%;
+    background-color: rgba(255, 255, 255, 0.467);
+        position: sticky; 
+    z-index: 1;
+    top: 0; 
+
+    
+}
+.active{
+    color: #be0c0c ;
+    
+}
+.logo{
+    /* border: 2px solid black; */
+    height: 80px;
+    width: 340px;
+    position: relative;
+}
+.logo h1{
+    font-size: 49px;
+    font-style: italic;
+    color: orange;
+    font-family: "Dancing Script", cursive;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.div1 ul {
+    /* border: 2px solid firebrick; */
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    font-size: 26px;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.div1 ul li {
+    list-style: none;
+}
+.div1 ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: #0cbe24;
+}
+.div1 ul li a:hover{
+    color: orange;
+}
